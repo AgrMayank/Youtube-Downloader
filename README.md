@@ -1,7 +1,5 @@
 # Youtube Downloader
 
-Source code is included.
-
 # How to use : 
 	1. Run the YoutubeDownload.exe located in the ".../dist" folder
 	2. Copy and Paste the video URL from your address bar in the browser window
@@ -11,3 +9,5 @@ Source code is included.
 # NOTE :
 	1. After clicking on Download, the app may Not Respond for the time your Video is being downloaded.
 	2. After the video is downloaded, the Not Responding state would go away.
+	
+*Source code is included.
