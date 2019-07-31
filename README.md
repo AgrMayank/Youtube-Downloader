@@ -10,4 +10,5 @@
 	1. After clicking on Download, the app may Not Respond for the time your Video is being downloaded.
 	2. After the video is downloaded, the Not Responding state would go away.
 	
-*Source code is included.
+*Source code is included.<br>
+*\*For Learning Purposes ONLY\**
