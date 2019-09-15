@@ -1,11 +1,11 @@
 # Youtube Downloader
-Download YouTube videos using an application made with python
+Download YouTube videos using an application made with Python & Tkinter module.
 
 # Releases
 Download the latest release [here.](https://github.com/AgrMayank/Youtube-Downloader/releases)
 
 # How to use : 
-	1. Run the YoutubeDownload.exe located in the ".../dist" folder
+	1. Run the YoutubeDownload.exe located in the ".../dist" folder or from "releases" tab
 	2. Copy and Paste the video URL from your address bar in the browser window
 	3. Click on Download
 	4. The downloaded file will be stored in your "...user/Downloads" folder
