@@ -1,4 +1,5 @@
 # Youtube Downloader
+
 Download YouTube videos using an application made with Python & Tkinter module.
 
 ![GitHub issues](https://img.shields.io/github/issues/AgrMayank/Youtube-Downloader?label=Issues&style=flat-square)
@@ -9,16 +10,20 @@ Download YouTube videos using an application made with Python & Tkinter module.
 ![GitHub repo size](https://img.shields.io/github/repo-size/AgrMayank/Youtube-Downloader?label=Repo%20Size&style=flat-square)
 
 # Releases
-Download the latest release [here.](https://github.com/AgrMayank/Youtube-Downloader/releases)
 
-# How to use : 
-	1. Run the YoutubeDownload.exe located in the ".../dist" folder or from "releases" tab
-	2. Copy and Paste the video URL from your address bar in the browser window
-	3. Click on Download
-	4. The downloaded file will be stored in your "...user/Downloads" folder
+Download the latest release
+[here.](https://github.com/AgrMayank/Youtube-Downloader/releases)
+
+# How to use :
+
+    1. Run the YoutubeDownload.exe located in the ".../dist" folder or from "releases" tab
+    2. Copy and Paste the video URL from your address bar in the browser window
+    3. Click on Download
+    4. The downloaded file will be stored in your "...user/Downloads" folder
 
 # NOTE :
-	1. After clicking on Download, the app may Not Respond for the time your Video is being downloaded.
-	2. After the video is downloaded, the Not Responding state would go away.
-	
+
+    1. After clicking on Download, the app may Not Respond for the time your Video is being downloaded.
+    2. After the video is downloaded, the Not Responding state would go away.
+
 **\*For Learning Purposes ONLY\***
